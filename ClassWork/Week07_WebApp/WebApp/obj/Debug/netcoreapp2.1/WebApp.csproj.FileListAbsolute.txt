@@ -1,0 +1,14 @@
+C:\COMP-306\ClassWork\WebApp\WebApp\bin\Debug\netcoreapp2.1\WebApp.deps.json
+C:\COMP-306\ClassWork\WebApp\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.json
+C:\COMP-306\ClassWork\WebApp\WebApp\bin\Debug\netcoreapp2.1\WebApp.runtimeconfig.dev.json
+C:\COMP-306\ClassWork\WebApp\WebApp\bin\Debug\netcoreapp2.1\WebApp.dll
+C:\COMP-306\ClassWork\WebApp\WebApp\bin\Debug\netcoreapp2.1\WebApp.pdb
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.csprojAssemblyReference.cache
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.csproj.CoreCompileInputs.cache
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cache
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorAssemblyInfo.cs
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfoInputs.cache
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.AssemblyInfo.cs
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.RazorTargetAssemblyInfo.cache
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.dll
+C:\COMP-306\ClassWork\WebApp\WebApp\obj\Debug\netcoreapp2.1\WebApp.pdb

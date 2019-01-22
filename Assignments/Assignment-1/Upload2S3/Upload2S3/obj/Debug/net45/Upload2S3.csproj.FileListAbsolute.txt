@@ -1,0 +1,12 @@
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\bin\Debug\net45\Upload2S3.exe.config
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\bin\Debug\net45\Upload2S3.exe
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\bin\Debug\net45\Upload2S3.pdb
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\bin\Debug\net45\AWSSDK.Core.dll
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\bin\Debug\net45\AWSSDK.S3.dll
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.csprojAssemblyReference.cache
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.csproj.CoreCompileInputs.cache
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.AssemblyInfoInputs.cache
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.AssemblyInfo.cs
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.csproj.CopyComplete
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.exe
+C:\COMP-306\Assignments\Assignment-1\Upload2S3\Upload2S3\obj\Debug\net45\Upload2S3.pdb

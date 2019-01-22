@@ -1,0 +1,11 @@
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\bin\Debug\netcoreapp2.1\Week06ConsoleApp.deps.json
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\bin\Debug\netcoreapp2.1\Week06ConsoleApp.runtimeconfig.json
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\bin\Debug\netcoreapp2.1\Week06ConsoleApp.runtimeconfig.dev.json
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\bin\Debug\netcoreapp2.1\Week06ConsoleApp.dll
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.csprojAssemblyReference.cache
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.csproj.CoreCompileInputs.cache
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.AssemblyInfoInputs.cache
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.AssemblyInfo.cs
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\bin\Debug\netcoreapp2.1\Week06ConsoleApp.pdb
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.dll
+C:\COMP-306\ClassWork\Week06ConsoleApp\Week06ConsoleApp\obj\Debug\netcoreapp2.1\Week06ConsoleApp.pdb

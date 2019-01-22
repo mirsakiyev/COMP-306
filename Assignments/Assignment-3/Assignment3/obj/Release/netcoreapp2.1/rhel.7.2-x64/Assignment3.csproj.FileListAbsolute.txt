@@ -1,0 +1,11 @@
+C:\COMP-306\Assignments\Assignment-3\Assignment3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.deps.json
+C:\COMP-306\Assignments\Assignment-3\Assignment3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.runtimeconfig.json
+C:\COMP-306\Assignments\Assignment-3\Assignment3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.runtimeconfig.dev.json
+C:\COMP-306\Assignments\Assignment-3\Assignment3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.dll
+C:\COMP-306\Assignments\Assignment-3\Assignment3\bin\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.pdb
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.csprojAssemblyReference.cache
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.csproj.CoreCompileInputs.cache
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.AssemblyInfoInputs.cache
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.AssemblyInfo.cs
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.dll
+C:\COMP-306\Assignments\Assignment-3\Assignment3\obj\Release\netcoreapp2.1\rhel.7.2-x64\Assignment3.pdb

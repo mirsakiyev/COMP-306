@@ -1,0 +1,13 @@
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\bin\Debug\netcoreapp2.1\TodoApiWeek08.deps.json
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\bin\Debug\netcoreapp2.1\TodoApiWeek08.runtimeconfig.json
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\bin\Debug\netcoreapp2.1\TodoApiWeek08.runtimeconfig.dev.json
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\bin\Debug\netcoreapp2.1\TodoApiWeek08.dll
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\bin\Debug\netcoreapp2.1\TodoApiWeek08.pdb
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.csproj.CoreCompileInputs.cache
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.RazorAssemblyInfo.cache
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.RazorAssemblyInfo.cs
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.AssemblyInfoInputs.cache
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.AssemblyInfo.cs
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.RazorTargetAssemblyInfo.cache
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.dll
+C:\COMP-306\ClassWork\TodoApiWeek08\TodoApiWeek08\obj\Debug\netcoreapp2.1\TodoApiWeek08.pdb

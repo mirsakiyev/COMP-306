@@ -1,0 +1,8 @@
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.csprojAssemblyReference.cache
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.csproj.CoreCompileInputs.cache
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.RazorAssemblyInfo.cache
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.RazorAssemblyInfo.cs
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.AssemblyInfoInputs.cache
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.AssemblyInfo.cs
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.TagHelpers.input.cache
+C:\COMP-306\ClassWork\WebAppRDSAccess\WebAppRDSAccess\obj\Debug\netcoreapp2.1\WebAppRDSAccess.TagHelpers.output.cache
